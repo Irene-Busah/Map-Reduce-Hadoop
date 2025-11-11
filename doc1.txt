@@ -1,0 +1,6 @@
+doc1.txt	The cat chased the mouse
+doc1.txt	The dog barked loudly
+doc2.txt	A dog chased a ball
+doc2.txt	The cat slept on the sofa
+doc3.txt	The mouse ran under the sofa
+doc3.txt	The cat watched silently
