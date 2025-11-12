@@ -1,0 +1,5 @@
+doc1: cat sat on the mat
+doc1: cat sat on the mat
+doc2: dog sat on the log
+doc3: dog barked loudly
+doc3: dog barked loudly
